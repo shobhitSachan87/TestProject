@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.greeting {
+    color: red;
+}
+
+#testParagraph {
+    display: none;
+}
